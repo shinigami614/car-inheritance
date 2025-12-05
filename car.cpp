@@ -1,3 +1,5 @@
+//samuel daniel
+//reg:BCS-03-0118/2025
 #include <iostream>
 #include <string>
 using namespace std;
@@ -49,4 +51,5 @@ int main() {
     myCar.drive(300);
     
     return 0;
+
 } 
